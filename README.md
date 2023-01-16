@@ -1,4 +1,4 @@
-# L1 <-> L2 integration Message Example
+# L1 <-> L2 Message Integration Example
 This is a demo for showcasing how to setup l1<->l2 integration in your local dev env. The whole repo consists of two folders.
 
 ## l1-hardhat
