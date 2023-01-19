@@ -1,4 +1,4 @@
-# How to deploy to your local
+# How to deploy to your local ganache instance
 ```
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network ganache
